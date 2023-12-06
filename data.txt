@@ -1,0 +1,7 @@
+I am currently a lecturer with the Department of Information Technology, Bayero University Kano, Kano, Nigeria. I completed my Ph.D. degree under the supervision of Prof. Dr. Azuraliza Abu Bakar, from Universiti Kebangsaan Malaysia, Malaysia in 2020.
+
+My research interests lie in the areas of Data Science which includes areas of Natural Language Processing, Machine Learning, and Deep Learning. During my Ph.D. degree, I worked on the identification of purchase intention from social media texts for revenue prediction. The study resulted in an article titled: Movie Revenue Prediction Based on Purchase Intention Mining Using YouTube Trailer Reviews.
+
+I am a co-founder of the HausaNLP (www.hausanlp.org) research group, where we focus on research related to NLP in African (low resource) languages. I am a beneficiary over several international and local grants.
+
+As a lecturer with Bayero University Kano, my responsibilities include teaching and supervising both undergraduate and postgraduate students. Currently, I teach CSC8303 Artificial Intelligence for MSc Computer Science program and ICT8302 Enterprise Database Management for Master of Information and Communication Technology.

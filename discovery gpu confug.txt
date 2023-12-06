@@ -1,0 +1,5 @@
+srun --partition=gpu --nodes=1 --gres=gpu:v100-sxm2:1 --cpus-per-task=2 --mem=100GB --time=02:00:00 --pty /bin/bash
+
+https://rc-docs.northeastern.edu/en/latest/runningjobs/workingwithgpus.html#working-gpus
+
+https://rc-docs.northeastern.edu/en/latest/first_steps/passwordlessssh.html
