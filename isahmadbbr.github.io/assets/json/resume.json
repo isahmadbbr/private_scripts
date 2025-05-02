@@ -1,0 +1,169 @@
+{
+  "basics": {
+    "name": "Ibrahim Said Ahmad",
+    "label": "Postdoctoral Research Scientist",
+    "image": "",
+    "email": "ibrahimsaidahmad@outlook.com",
+    "url": "https://isahmadbbr.github.io",
+    "summary": "I am an academic and a researcher with interest in NLP. I have a PhD and nearly ten years of work experience. I am a co-founder of HausaNLP and Arewa Data Science. My research specializes in natural language processing in low-resource settings, focusing on addressing data insufficiency in various NLP applications and solving complex problems with limited data. I aim to bring innovative, data-driven solutions to NLP challenges in a corporate environment.",
+    "location": {
+      "address": "100 Fore St",
+      "postalCode": "ME 04103",
+      "city": "Portland",
+      "countryCode": "US",
+      "region": "Maine"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "isabone",
+        "url": "https://twitter.com/isabone"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Northeastern University",
+      "position": "Postdoctoral Research Scientist",
+      "url": "https://www.northeastern.edu",
+      "startDate": "2025-07-05",
+      "endDate": "",
+      "summary": "Research on NLP for low-resource languages, focusing on Hausa and other African languages. Collaborating with a team of researchers to develop innovative solutions for NLP challenges.",
+      "highlights": [
+        "Developed a novel datasets for hate speech detection and emotion analysis.",
+        "Published multiple papers in top-tier NLP conferences and journals.",
+        "Developed multiple funding proposals for research projects."
+      ]
+  
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universiti Kebangsaan Malaysia",
+      "location": "Malaysia",
+      "degree": "PhD in Computer Science",
+      "url": "https://www.ukm.my",
+      "area": "Natural Language Processing",
+      "studyType": "PhD",
+      "startDate": "2016-03-01",
+      "endDate": "2020-04-20"
+
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best Paper Award",
+      "date": "2024-10-18",
+      "awarder": "International Conference on Affective Computing and Intelligent Interaction (ACII 2025)",
+      "url": "",
+      "summary": "The paper titled: Analyzing Cultural Representations of Emotions in LLMs through Mixed Emotion Survey selected as best paper in ACII 2025 conference held at Glasgow, UK."
+    }
+  ],
+  
+  "publications": [
+      {
+        "name": "Findings of the IWSLT 2024 Evaluation Campaign",
+        "publisher": "Proceedings of the 21st International Conference on Spoken Language Translation (IWSLT 2024)",
+        "releaseDate": "2024",
+        "url": "https://aclanthology.org/2024.iwslt-1.1.pdf",
+        "summary": "This paper reports on shared tasks addressing seven scientific challenges in spoken language translation, attracting 18 teams with 26 system papers and showing growing interest in the field across industry and academia."
+      },
+      {
+        "name": "Are generative language models multicultural? A study on Hausa culture and emotions using ChatGPT",
+        "publisher": "Proceedings of the 2nd Workshop on Cross-Cultural Considerations in NLP",
+        "releaseDate": "2024",
+        "url": "https://aclanthology.org/2024.c3nlp-1.8",
+        "summary": "An analysis of how generative language models handle multicultural contexts, specifically examining Hausa culture and emotions through ChatGPT."
+      },
+      {
+        "name": "No Culture Left Behind: ArtELingo-28, a Benchmark of WikiArt with Captions in 28 Languages",
+        "publisher": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+        "releaseDate": "2024",
+        "url": "",
+        "summary": "Introduces ArtELingo-28, a benchmark dataset of WikiArt with captions translated into 28 languages to support multilingual art description research."
+      },
+      {
+        "name": "Analyzing Cultural Representations of Emotions in LLMs through Mixed Emotion Survey",
+        "publisher": "Proceedings of the 12th International Conference on Affective Computing and Intelligent Interaction (ACII)",
+        "releaseDate": "2024",
+        "url": "",
+        "summary": "A study examining how large language models represent emotions across different cultures through a mixed emotion survey methodology."
+      },
+      {
+        "name": "Analyzing COVID-19 Vaccination Sentiments in Nigerian Cyberspace: Insights from a Manually Annotated Twitter Dataset",
+        "publisher": "arXiv preprint",
+        "releaseDate": "2024",
+        "url": "https://arxiv.org/abs/2401.13133",
+        "summary": "Analysis of public sentiment regarding COVID-19 vaccination in Nigeria using a manually annotated Twitter dataset."
+      },
+      {
+        "name": "Impact of social media posts' characteristics on movie performance prior to release: an explainable machine learning approach",
+        "publisher": "Electronic Commerce Research",
+        "releaseDate": "2024",
+        "url": "",
+        "summary": "Explores how characteristics of social media posts about movies before their release correlate with movie performance using explainable machine learning methods."
+      },
+      {
+        "name": "HausaHate: An Expert Annotated Corpus for Hausa Hate Speech Detection",
+        "publisher": "Proceedings of the 8th Workshop on Online Abuse and Harms (WOAH 2024)",
+        "releaseDate": "2024",
+        "url": "",
+        "summary": "Presents a corpus of Hausa language text annotated by experts for hate speech detection."
+      },
+      {
+        "name": "SemRel2024: A Collection of Semantic Textual Relatedness Datasets for 13 Languages",
+        "publisher": "Findings of the Association for Computational Linguistics: ACL 2024",
+        "releaseDate": "2024",
+        "url": "",
+        "summary": "Introduces a collection of semantic textual relatedness datasets covering 13 different languages."
+      },
+      {
+        "name": "NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis",
+        "publisher": "Proceedings of the Thirteenth Language Resources and Evaluation Conference",
+        "releaseDate": "2022",
+        "url": "",
+        "summary": "Presents a corpus of Nigerian Twitter data for multilingual sentiment analysis."
+      },
+      {
+        "name": "Movie revenue prediction based on purchase intention mining using YouTube trailer reviews",
+        "publisher": "Information Processing & Management",
+        "releaseDate": "2020",
+        "url": "",
+        "summary": "A method for predicting movie revenues by analyzing purchase intention from YouTube trailer reviews."
+      },
+      {
+        "name": "A survey on machine learning techniques in movie revenue prediction",
+        "publisher": "SN Computer Science",
+        "releaseDate": "2020",
+        "url": "",
+        "summary": "A comprehensive overview of machine learning approaches used in predicting movie revenue."
+      },
+      {
+        "name": "Beyond sentiment classification: A novel approach for utilizing social media data for business intelligence",
+        "publisher": "International Journal of Advanced Computer Science and Applications",
+        "releaseDate": "2020",
+        "url": "",
+        "summary": "Presents a novel approach that goes beyond traditional sentiment classification to extract business intelligence from social media data."
+      },
+      {
+        "name": "A hybrid metaheuristic method in training artificial neural network for bankruptcy prediction",
+        "publisher": "IEEE Access",
+        "releaseDate": "2020",
+        "url": "",
+        "summary": "Proposes a hybrid metaheuristic approach for training artificial neural networks specifically for bankruptcy prediction applications."
+      }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Hausa",
+      "fluency": "Native speaker",
+      "icon": ""
+    }
+  ]
+  
+}
